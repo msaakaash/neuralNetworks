@@ -8,7 +8,6 @@ Original file is located at
 """
 
 import numpy as np
-
 class NeuralNetwork():
 
   def __init__(self,n_features,n_classes,n_hidden):
