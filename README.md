@@ -6,8 +6,8 @@
 
 ## 📂 Repository Structure  
 - **activationFunctions.py**
-- **multiLayerPerceptron**
-- **singleLayerPerceptron**
+- **multiLayerPerceptron.py**
+- **singleLayerPerceptron.py**
  
 
 ## 🚀 Getting Started  
