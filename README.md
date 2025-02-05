@@ -5,6 +5,7 @@
 - The goal of this project is to demonstrate the inner workings of neural networks, focusing on their mathematical principles and core components.
 
 ## 📂 Repository Structure  
+- **activationFunctions.py**
 - **multiLayerPerceptron**
 - **singleLayerPerceptron**
  
